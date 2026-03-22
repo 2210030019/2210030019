@@ -1,5 +1,4 @@
 ## Hi, I'm Harshita👋
-# 💫 About Me:
 <br>I'm a CS undergrad who enjoys building backend systems, cloud projects, and developer tools. I like taking an idea from scratch and turning it into something that actually works. <br>I mostly work with Node.js, Express.js, JavaScript, Java and MySQL. I enjoy competitive programming and have solved 250+ problems on LeetCode. 💻<br>I'm always learning — whether it's diving deeper into how systems work under the hood, picking up new tools, or exploring areas I haven't touched before. I like staying curious and building as I learn. 🌱<br><br>Fun fact — I love cats. 🐱
 
 
